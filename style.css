@@ -1,0 +1,9 @@
+.langs_im_learning{
+  text-decoration: none;
+  color: red;
+  display: flex;
+  justify-content: space-around;
+  position: sticky;
+  align-items: center;
+  text-align: center;
+}
